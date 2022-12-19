@@ -1,2 +1,5 @@
 <!-- HTML Embed -->
-<iframe src="https://github.com/officialPlocki/officialplocki/raw/main/index.html"></iframe>
+<object>
+  <embed src="https://github.com/officialPlocki/officialplocki/raw/main/index.html"
+         type="text/html">
+</object>
