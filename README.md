@@ -40,6 +40,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=officialPlocki&icon=1&color=6)](https://visitcount.itsvg.in)
-
-> Imprint: https://vultronstudios.net/legal
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
