@@ -15,8 +15,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 😂 Random Dev Meme
-<script type="text/javascript">
+### 😂 Random funny GIF
+<script type="text/x-tmpl">
   $(document).ready(function() {
 	// Initiate gifLoop for set interval
 	var refresh;
