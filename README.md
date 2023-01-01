@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Part of the Vultron Studios Administration<br><br>👯 Currently working on LightAC<br><br>🤝 I want to make the world a better place<br><br>⚡ Fun fact: I am always stressed, even when I am asleep<br><br><br>Want a free Minecraft server?<br>https://elizon.host/discord<br><br>or<br><br>Invite the ELIZON.BOT Discord bot :)<br>https://vultronstudios.net/ (click "INVITE BOT")
+🔭 Part of the Vultron Studios Administration<br><br>👯 Currently working on LightAC<br><br>🤝 I want to make the world a better place<br><br>⚡ Fun fact: I am a professional in overthinking<br>
 
 
 ## 🌐 Socials:
@@ -7,10 +7,6 @@
 > Vultron Studios      
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://vultronstudios.net/discord)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vultronstudios)
-
-> Free Hosting     
-> ELIZON. Hosting      
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://elizon.host/discord)
 
 > Free, cloud-based anticheat for Minecraft (in development)     
 > LightAC      
