@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 > Personal      
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/realPlocki)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/plocki)     
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/plockidev)     
 [![Website](https://img.shields.io/website?color=blue&down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fplocki.co)](https://plocki.co)
 
 # 💻 Tech Stack:
