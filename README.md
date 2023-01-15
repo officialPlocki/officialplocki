@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Part of the Vultron Studios Administration<br><br>👯 Currently working on LightAC<br><br>🤝 I want to make the world a better place<br><br>⚡ Fun fact: I am a professional in overthinking<br>
+🤝 I want to make the world a better place<br><br>⚡ Fun fact: I am a professional in overthinking<br>
 
 
 ## 🌐 Socials:
