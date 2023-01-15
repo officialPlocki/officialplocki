@@ -3,19 +3,6 @@
 
 
 ## 🌐 Socials:
-> Project Administration     
-> Vultron Studios      
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://vultronstudios.net/discord)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vultronstudios)
-
-> Free, cloud-based anticheat for Minecraft (in development)     
-> LightAC      
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Pf7xaqbBPD)
-
-> Advanced Minecraft RPG network (in development)     
-> VibeRPG     
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/dVcc4uuAyw)
-
 > Personal      
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/realPlocki)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/plocki)     
