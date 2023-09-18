@@ -21,3 +21,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=officialPlocki&icon=1&color=6)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+### Take Down Requests
+Please open a issue on a specific Repository with a prove of ownership of the part that you own, if you want me to remove a repository from github.
+For important requests, please write me on Twitter: @realPlocki
