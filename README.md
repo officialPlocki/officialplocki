@@ -11,9 +11,6 @@ Ich liebe es, komplexe technische Ideen in einfache, funktionierende Realität z
 💡 **Meine Philosophie:**  
 > Technologie ist nur dann wirklich innovativ, wenn sie Verantwortung mitträgt – für Menschen, Systeme und Umwelt.  
 
-🌱 Deshalb kombiniere ich technische Exzellenz mit nachhaltiger Energie:  
-Mein Rechenzentrum wird schrittweise auf **Wärmerückgewinnung und Solarenergie** umgestellt, um Rechenleistung effizient und umweltbewusst bereitzustellen.  
-
 ---
 
 ## 🌐 Socials
@@ -31,9 +28,8 @@ Mein Rechenzentrum wird schrittweise auf **Wärmerückgewinnung und Solarenergie
 Wir bieten **skalierbare Cloud-Lösungen**, **dedizierte Systeme** und **individuelle Softwareentwicklung**, die auf Performance, Zuverlässigkeit und Effizienz ausgerichtet sind.  
 
 Unser Ziel ist es, Technologie zugänglich zu machen – sicher, transparent und nachhaltig.  
-Dafür investieren wir in **grüne Infrastruktur**, energieeffiziente Hardware und innovative Wärmerückgewinnungskonzepte.  
-
-> 💬 *elizon.app – Hosting neu gedacht: schnell, sicher und nachhaltig.*
+Dafür investieren wir in **grüne Infrastruktur** und energieeffiziente Hardware.
+> 💬 *elizon.app – Hosting neu gedacht.*
 
 ---
 
