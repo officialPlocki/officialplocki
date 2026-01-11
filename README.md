@@ -4,7 +4,7 @@ Ich bin ein technologiebegeisterter Entwickler und Systemarchitekt mit einer kla
 **Digitale Lösungen schaffen, die leistungsstark, effizient und nachhaltig sind.**
 
 Von der Infrastruktur bis zum Code plane und realisiere ich Systeme, die nicht nur stabil laufen – sondern **Zukunft mitdenken**.  
-Mein Fokus liegt auf **modernen Webplattformen**, **skalierbarem Hosting** und **nachhaltigen Rechenzentrums­lösungen**.  
+Mein Fokus liegt auf **modernen Webplattformen** und **skalierbarem Hosting**.  
 
 Ich liebe es, komplexe technische Ideen in einfache, funktionierende Realität zu verwandeln – mit einem hohen Anspruch an **Qualität, Automatisierung und Energieeffizienz**.  
 
@@ -24,12 +24,11 @@ Ich liebe es, komplexe technische Ideen in einfache, funktionierende Realität z
 
 # 🚀 elizon.app
 
-**elizon.app** steht für moderne IT-Dienstleistungen, leistungsstarkes Webhosting und nachhaltige Serverinfrastruktur.  
-Wir bieten **skalierbare Cloud-Lösungen**, **dedizierte Systeme** und **individuelle Softwareentwicklung**, die auf Performance, Zuverlässigkeit und Effizienz ausgerichtet sind.  
+**elizon.app** steht für moderne IT-Dienstleistungen, stabiles Webhosting und kosteneffiziente Serverinfrastruktur.  
+Wir bieten **skalierbare Cloud-Lösungen** und **Enterprise Lösungen**, die auf Performance, Zuverlässigkeit und Stabilität ausgerichtet sind.  
 
-Unser Ziel ist es, Technologie zugänglich zu machen – sicher, transparent und nachhaltig.  
-Dafür investieren wir in **grüne Infrastruktur** und energieeffiziente Hardware.
-> 💬 *elizon.app – Hosting neu gedacht.*
+Unser Ziel ist es, Technologie zugänglich zu machen – sicher und transparent.
+> 💬 *elizon.app.*
 
 ---
 
@@ -43,7 +42,6 @@ Dafür investieren wir in **grüne Infrastruktur** und energieeffiziente Hardwar
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
