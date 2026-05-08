@@ -1,15 +1,8 @@
 # 💫 Über mich
 
-Ich bin ein technologiebegeisterter Entwickler und Systemarchitekt mit einer klaren Mission:  
-**Digitale Lösungen schaffen, die leistungsstark, effizient und nachhaltig sind.**
+Hobbylos und nebenbei Selbstständig.
+Beschreibt es ziemlich genau.
 
-Von der Infrastruktur bis zum Code plane und realisiere ich Systeme, die nicht nur stabil laufen – sondern **Zukunft mitdenken**.  
-Mein Fokus liegt auf **modernen Webplattformen** und **skalierbarem Hosting**.  
-
-Ich liebe es, komplexe technische Ideen in einfache, funktionierende Realität zu verwandeln – mit einem hohen Anspruch an **Qualität, Automatisierung und Energieeffizienz**.  
-
-💡 **Meine Philosophie:**  
-> Technologie ist nur dann wirklich innovativ, wenn sie Verantwortung mitträgt – für Menschen, Systeme und Umwelt.  
 
 ---
 
@@ -29,6 +22,8 @@ Wir bieten **skalierbare Cloud-Lösungen** und **Enterprise Lösungen**, die auf
 
 Unser Ziel ist es, Technologie zugänglich zu machen – sicher und transparent.
 > 💬 *elizon.app.*
+
+Wir haben übrigens auch Nameserver.
 
 ---
 
@@ -56,7 +51,7 @@ Unser Ziel ist es, Technologie zugänglich zu machen – sicher und transparent.
 
 ---
 
-### ✍️ Entwickler-Zitat
+### ✍️ Zitat
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
