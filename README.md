@@ -25,6 +25,8 @@ Unser Ziel ist es, Technologie zugänglich zu machen – sicher und transparent.
 
 Wir haben übrigens auch Nameserver.
 
+AS209800
+
 ---
 
 # 💻 Tech Stack
